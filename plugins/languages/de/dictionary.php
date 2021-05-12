@@ -1,6 +1,6 @@
 <?php
 
-return array(
+return [
     'langcode.iso639' => 'de',
     'numbers.dec_point' => '.',
     'numbers.thousands_sep' => ' ',
@@ -415,4 +415,4 @@ Anfrage gesendet *date* von deinem Computer *ip*.',
     'misc.errorlog.intro' => 'Bei der Bearbeitung der Anfrage sind Fehler aufgetreten:',
     'misc.category.noarts' => 'Diese Kategorie enthält keine Artikel.',
     'misc.gallery.noimages' => 'Diese Galerie enthält keine Bilder.',
-);
+];

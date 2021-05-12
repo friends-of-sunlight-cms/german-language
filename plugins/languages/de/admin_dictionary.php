@@ -1,6 +1,6 @@
 <?php
 
-return array(
+return [
     'admin.link.site' => 'Seiten anzeigen',
     'admin.link.newwin' => 'Neues Fenster',
     'admin.link.home' => 'zurück zur Hauptseite',
@@ -742,4 +742,4 @@ return array(
     'admin.backup.restore.submit.delete' => 'Sicherung löschen',
     'admin.other.php.title' => 'PHP Code Auswertung',
     'admin.other.php.html' => 'Ausgabe als HTML-Code auswerten',
-);
+];
