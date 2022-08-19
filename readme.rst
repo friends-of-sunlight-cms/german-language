@@ -6,7 +6,7 @@ German localization
 Requirements
 ************
 
-- Sunlight CMS 8+
+- Sunlight CMS 8
 
 Installation
 ************
