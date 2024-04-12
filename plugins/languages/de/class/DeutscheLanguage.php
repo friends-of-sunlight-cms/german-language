@@ -21,6 +21,6 @@ class DeutscheLanguage extends LanguagePlugin
             return parent::formatFloat($float, $decimals);
         }
 
-        return number_format($float, $decimals, $this->options['decimal_point'], '');
+        return number_format($float, $decimals, $this->getOption('decimal_point'), '');
     }
 }
