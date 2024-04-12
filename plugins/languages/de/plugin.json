@@ -1,9 +1,16 @@
 {
   "$schema": "../../../system/schema/language.json",
   "name": "Deutsche",
-  "description": "Deutsche Lokalisierung des Systems.",
-  "version": "8.0",
-  "api": "^8.0.0",
-  "author": "Marty9xxxx",
-  "url": "http://svatousek.cz/"
+  "description": "Übersetzungsdateien für Deutschland.",
+  "authors": [
+      {"url": "https://svatousek.cz/"}
+  ],
+  "version": "0.2",
+  "environment": {
+      "system": "^8.0"
+  },
+  "class": "Deutschelanguage",
+  "iso_code": "ge",
+  "decimal_point": ".",
+  "thousands_separator": ","
 }
