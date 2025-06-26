@@ -10,7 +10,7 @@
       "system": "^8.0"
   },
   "class": "Deutschelanguage",
-  "iso_code": "ge",
+  "iso_code": "de",
   "decimal_point": ".",
   "thousands_separator": ","
 }
